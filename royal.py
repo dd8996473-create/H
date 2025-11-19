@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 import requests
 
 # ================== CONFIG ==================
-BOT_TOKEN = "8054850557:AAHsBnb49wl1IZg4kxTQ6JYPN_Bl8Mi08bo"   # <-- apna bot token
+BOT_TOKEN = "8543293281:AAGRm6fhNkZ5TA5D6fy8ypSCWF1XK4dC67c"   # <-- apna bot token
 ADMIN_IDS = [8457829943]                # <-- apna Telegram user id (int)
 
 DEFAULT_CREDITS = 10    # first time user = 10 credits
