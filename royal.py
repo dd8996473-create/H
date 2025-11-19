@@ -6,7 +6,7 @@ import requests
 
 # ================== CONFIG ==================
 BOT_TOKEN = "8543293281:AAGRm6fhNkZ5TA5D6fy8ypSCWF1XK4dC67c"   # <-- apna bot token
-ADMIN_IDS = [8457829943]                # <-- apna Telegram user id (int)
+ADMIN_IDS = [8453948641]                # <-- apna Telegram user id (int)
 
 DEFAULT_CREDITS = 10    # first time user = 10 credits
 LOOKUP_COST = 1         # har lookup pe 1 credit
